@@ -1,6 +1,6 @@
 @echo off
 color 0b
-title Guessing Game by ektoras christodoulatos
+title Guessing Game by hacker78010
 set /a guessnum=0
 set /a answer=%RANDOM%
 set variable1=surf33
